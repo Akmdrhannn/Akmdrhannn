@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Raihan from Indonesia especially from Bangkalan City. I'm trying to be a Fullstack Web Developer < 💻 /></div>  
+### <div align="center">I'm Raihan from Indonesia especially from Bangkalan City. I'm trying to be a Fullstack Web Developer 
+< 💻 /></div>  
   
 
 - 🔭 I'm currently studying at Trunojoyo Madura University in the informatics engineering study program  
@@ -104,10 +105,4 @@
 </div>  
   
 
-<br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
