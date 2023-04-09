@@ -15,7 +15,7 @@
 - ⚡ Fun Fact : My sense of humor is too high :D  
 
 
-- Also me in DISC Psychology test : https://tes.anthonykusuma.com/disc/compliance (Indonesia subtittle)
+- Also iam an INTJ Personality and this is me with DISC Psychology test : https://tes.anthonykusuma.com/disc/compliance (Indonesia subtittle)
   
 
 <br/>  
