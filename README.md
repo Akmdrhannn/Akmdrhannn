@@ -3,14 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Raihan from Indonesia especially from Bangkalan City. I'm trying to be a Fullstack Web Developer< 💻 /></div>  
+### <div align="center">I'm Raihan from Indonesia especially from Bangkalan City. I'm trying to be a Backend Web Developer or Quality Assurance< 💻 /></div>  
   
 
-- 🔭 I'm currently studying at Trunojoyo Madura University in the informatics engineering study program  
-  
-
-- 🌱 I’m currently learning Laravel Framework right now  
-  
+- 🔭 I'm still waiting my graduation queue from Trunojoyo Madura University
 
 - ⚡ Fun Fact : My sense of humor is too high :D  
 
